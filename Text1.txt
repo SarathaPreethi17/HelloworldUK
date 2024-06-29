@@ -1,0 +1,3 @@
+git add
+Usage: git add [file] or git add .
+Description: Adds changes in the working directory to the staging area. This prepares the changes to be committed to the repository.
